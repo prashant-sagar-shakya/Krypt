@@ -1,6 +1,5 @@
 # **Krypt** - *Your Gateway to Web3.0 Blockchain Magic* 🚀  
 
-### **Experience the Power of Web3.0**  
 **Krypt** is a revolutionary *Web3.0 Blockchain Application* that brings the decentralized world closer to you. It allows users to seamlessly send Ethereum transactions with a creative twist—pair your transactions with unique GIFs, making every transaction a memory stored forever on the blockchain.
 
 <div align="center">
